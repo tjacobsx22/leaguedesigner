@@ -1,0 +1,14 @@
+{
+  "name": "laguedesigner",
+  "version": "1.0.0",
+  "description": "League designer website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
